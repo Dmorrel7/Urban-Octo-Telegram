@@ -15,12 +15,18 @@ Body
         Changed div element to section element.
         Gave search-engine-optimization an id so it can be clicked on in the header and it takes you to that spot on the website.
         Added alt tags to all three of the pictures.
+    Benefits
+        Changed div class to section.
+        Deleted all the classes inside the divs.
+
 
 
 CSS Changes
 
-Labeled different sections of css to what they are directs towards.
+Labeled different sections of css to what they are directed towards.
 Took all of the . out of the header since its an element and not a class anymore.
+In the Benefits and Contents section refactored a lot of CSS that was the same into small bits of code and moved them around as needed.
+
 
 
 
