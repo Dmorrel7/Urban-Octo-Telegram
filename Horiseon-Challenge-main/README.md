@@ -19,6 +19,8 @@ Body
     Benefits
         Changed div class to section.
         Deleted all the classes inside the divs.
+    Footer
+        Changed footer from a div class to an Element.
 
 
 
@@ -27,6 +29,7 @@ CSS Changes
 Labeled different sections of css to what they are directed towards.
 Took all of the . out of the header since its an element and not a class anymore.
 In the Benefits and Contents section refactored a lot of CSS that was the same into small bits of code and moved them around as needed.
+Took all of the . out of footer since it is now an elemnt not a class
 
 
 
