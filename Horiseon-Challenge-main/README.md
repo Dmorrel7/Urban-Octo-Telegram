@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-<img src="Horiseon-Challenge-main\Develop\assets\images\dmorrel7.github.io_Urban-Octo-Telegram_Horiseon-Challenge-main_Develop_index.html.png" />
+<img src="dalton-website.png" />
 
 
 
