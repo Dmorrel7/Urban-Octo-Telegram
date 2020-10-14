@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-<img src="/assets/images/dalton-website.png" />
+<img src="assets/images/dalton-website.png" />
 
 
 
