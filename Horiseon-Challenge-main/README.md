@@ -10,11 +10,10 @@ I think some where along the line I messed up my pathing. I had to type out Hori
 <a href="https://dmorrel7.github.io/Urban-Octo-Telegram/Horiseon-Challenge-main/Develop/index.html">https://dmorrel7.github.io/Urban-Octo-Telegram/Horiseon-Challenge-main/Develop/index.html</a>
 
 HTML Changes <br />
+
 Head <br />
     Changed the Title of the site from website to Urban-Octo-Telegram <br />
-
 Body <br />  
-
     Changed div element to header. <br />
     Header <br />
         Added an a href to Horiseon to make it bring you back to the homepage incase more pages are added. <br />
