@@ -11,24 +11,24 @@ I think some where along the line I messed up my pathing. I had to type out Hori
 
 HTML Changes <br />
 
-Head <br />
+(Head) <br />
     Changed the Title of the site from website to Urban-Octo-Telegram <br />
-Body <br />  
+(Body) <br />  
     Changed div element to header. <br />
-    Header <br />
+    (Header) <br />
         Added an a href to Horiseon to make it bring you back to the homepage incase more pages are added. <br />
         Changed div to nav element. <br />
-    Hero <br />
+    (Hero) <br />
         Changed div element to section. <br />
-    Content <br />
+    (Content) <br />
         Changed div element to section element. <br />
         Gave search-engine-optimization an id so it can be clicked on in the header and it takes you to that spot on the website. <br />
         Added alt tags to all three of the pictures. <br />
         Gave all the h2 a class of content2. <br />
-    Benefits <br />
+    (Benefits) <br />
         Changed div class to section. <br />
         Deleted all the classes inside the divs. <br />
-    Footer <br />
+    (Footer) <br />
         Changed footer from a div class to an Element. <br />
 
 
