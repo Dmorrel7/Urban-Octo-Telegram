@@ -14,7 +14,7 @@ Body
     Content
         Changed div element to section element.
         Gave search-engine-optimization an id so it can be clicked on in the header and it takes you to that spot on the website.
-        
+        Added alt tags to all three of the pictures.
 
 
 CSS Changes
