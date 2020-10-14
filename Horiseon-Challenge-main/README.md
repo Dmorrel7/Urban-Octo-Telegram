@@ -1,5 +1,14 @@
 # Code Refactor Starter Code
 
+<img src="Horiseon-Challenge-main\Develop\assets\images\dmorrel7.github.io_Urban-Octo-Telegram_Horiseon-Challenge-main_Develop_index.html.png" />
+
+
+
+
+I think some where along the line I messed up my pathing. I had to type out Horiseon-Challenge-main/Develop/index.html to get my link to work correctly.
+
+<a href="https://dmorrel7.github.io/Urban-Octo-Telegram/Horiseon-Challenge-main/Develop/index.html">https://dmorrel7.github.io/Urban-Octo-Telegram/Horiseon-Challenge-main/Develop/index.html</a>
+
 HTML Changes
 Head
     Changed the Title of the site from website to Urban-Octo-Telegram
@@ -33,6 +42,3 @@ Took all of the . out of footer since it is now an elemnt not a class
 
 
 
-
-
-<a href="https://dmorrel7.github.io/Urban-Octo-Telegram/Horiseon-Challenge-main/Develop/index.html">https://dmorrel7.github.io/Urban-Octo-Telegram/Horiseon-Challenge-main/Develop/index.html</a>
