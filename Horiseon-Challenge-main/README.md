@@ -5,7 +5,7 @@
 
 
 
-I think some where along the line I messed up my pathing. I had to type out Horiseon-Challenge-main/Develop/index.html to get my link to work correctly.
+I think some where along the line I messed up my pathing. I had to type out Horiseon-Challenge-main/Develop/index.html to get my link to work correctly..
 
 <a href="https://dmorrel7.github.io/Urban-Octo-Telegram/Horiseon-Challenge-main/Develop/index.html">https://dmorrel7.github.io/Urban-Octo-Telegram/Horiseon-Challenge-main/Develop/index.html</a>
 
