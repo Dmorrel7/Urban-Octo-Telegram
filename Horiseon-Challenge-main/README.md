@@ -2,7 +2,7 @@
 
 HTML Changes
 Head
-    Chnaged the Title of the site from website to Urban-Octo-Telegram
+    Changed the Title of the site from website to Urban-Octo-Telegram
 Head
 Body 
     Changed div element to header.
